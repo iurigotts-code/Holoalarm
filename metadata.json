@@ -1,0 +1,8 @@
+{
+  "name": "Copy of HoloAlarm 3D",
+  "description": "An advanced alarm app that project a 3D holographic version of your face and speaks to you when the time comes.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
